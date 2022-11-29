@@ -1,0 +1,3 @@
+my first file to create repo
+in seccond commit
+for testing now direct commit

@@ -1,0 +1,8 @@
+my first file to create repo
+in seccond commit
+for testing now direct commit
+added in gitignore
+testinfg diff
+first after git rm --cached 
+lets change after top command
+cds
